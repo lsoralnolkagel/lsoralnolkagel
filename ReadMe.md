@@ -14,7 +14,7 @@ I want to improve my skills and get a first-hand experience of commercial develo
 ![](https://github-profile-trophy.vercel.app/?username=lsoralnolkagel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ⚔️ CodeWars
-[![codewars](https://www.codewars.com/users/SoraNoKage/badges/small)](https://www.codewars.com/users/SoraNoKage) 
+[![codewars](https://www.codewars.com/users/SoraNoKage/badges/large)](https://www.codewars.com/users/SoraNoKage) 
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
