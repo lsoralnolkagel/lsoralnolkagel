@@ -1,6 +1,6 @@
 # 💫 About Me:
-As a Python developer, I'm currently working on my own online-store with Fastapi framework. 
-I want to improve my skills and get a first-hand experience of commercial development.
+As a Python Backend Engineer with over 3 years of experience I have worked mainly with Python and its frameworks and libraries. I worked in sectors of education, e-commerce, computer vision and
+machine learning. I’m deeply interested in data storage system optimization, web-development, optimization and increase in efficiency of applications used in various fields, including using AI.
 
 
 # 💻 Tech Stack:
