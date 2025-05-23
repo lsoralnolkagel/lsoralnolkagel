@@ -1,6 +1,5 @@
 # 💫 About Me:
-As a Python Backend Engineer with over 3 years of experience I have worked mainly with Python and its frameworks and libraries. I worked in sectors of education, e-commerce, computer vision and
-machine learning. I’m deeply interested in data storage system optimization, web-development, optimization and increase in efficiency of applications used in various fields, including using AI.
+As a Python Backend Engineer with over 4 years of experience I have worked mainly with Python and its frameworks and libraries. In addition to Python development, I have extensive experience working with databases, caching systems, message brokers, and other backend infrastructure components. I am skilled in designing and maintaining systems capable of handling high loads and have solid expertise in microservices architecture. My professional background spans sectors such as education, e-commerce, oil and gas industry, computer vision, and machine learning. I’m deeply interested in data storage system optimization, web development, and improving the efficiency and performance of applications used across various fields, including leveraging AI technologies.
 
 
 # 💻 Tech Stack:
